@@ -21,7 +21,7 @@ Welcome to my builder journey on Base! This repository serves as a library for m
 * [x] Identify top 50 active contracts on Base.
 
 ### Phase 2: Social & On-Chain Integration
-* [ ] Research social engagement metrics (Farcaster/X) for Base users.
+* [x] Research social engagement metrics (Farcaster/X) for Base users.
 * [ ] Map on-chain activity to social profiles.
 * [ ] Draft logic for the "Base Social Engagement Analyzer."
 
