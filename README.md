@@ -13,3 +13,19 @@ Welcome to my builder journey on Base! This repository serves as a library for m
 
 ---
 *"Based" and building in the open.*
+## 🗺️ Project Roadmap
+
+### Phase 1: Data Foundation (Current)
+* [x] Set up GitHub repository for Base insights.
+* [x] Create SQL library for 24h, 7d, and 30d volume analysis.
+* [ ] Identify top 50 active contracts on Base.
+
+### Phase 2: Social & On-Chain Integration
+* [ ] Research social engagement metrics (Farcaster/X) for Base users.
+* [ ] Map on-chain activity to social profiles.
+* [ ] Draft logic for the "Base Social Engagement Analyzer."
+
+### Phase 3: Mini-App Development
+* [ ] Build a basic front-end to display analyzed data.
+* [ ] Deploy the "Base Activity Tracker" mini-app.
+* [ ] Open-source the codebase for community contribution.
