@@ -18,7 +18,7 @@ Welcome to my builder journey on Base! This repository serves as a library for m
 ### Phase 1: Data Foundation (Current)
 * [x] Set up GitHub repository for Base insights.
 * [x] Create SQL library for 24h, 7d, and 30d volume analysis.
-* [ ] Identify top 50 active contracts on Base.
+* [x] Identify top 50 active contracts on Base.
 
 ### Phase 2: Social & On-Chain Integration
 * [ ] Research social engagement metrics (Farcaster/X) for Base users.
