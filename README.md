@@ -22,8 +22,8 @@ Welcome to my builder journey on Base! This repository serves as a library for m
 
 ### Phase 2: Social & On-Chain Integration
 * [x] Research social engagement metrics (Farcaster/X) for Base users.
-* [ ] Map on-chain activity to social profiles.
-* [ ] Draft logic for the "Base Social Engagement Analyzer."
+* [x] Map on-chain activity to social profiles.
+* [x] Draft logic for the "Base Social Engagement Analyzer."
 
 ### Phase 3: Mini-App Development
 * [ ] Build a basic front-end to display analyzed data.
@@ -35,6 +35,7 @@ Welcome to my builder journey on Base! This repository serves as a library for m
 ## 🏆 Project Milestones
 * [x] **10 Commits:** Project Foundation & Initial SQL Tools
 * [x] **20 Commits:** Deep Research & Feature Mapping (Current)
+* [x] **25 Commits:** Logic Development & Streak Integration (HALFWAY!) 🏁
 * [ ] **30 Commits:** Logic Development & Logic Models
 * [ ] **40 Commits:** Beta Testing & Documentation
 * [ ] **50 Commits:** Final Release & Base Guild Submission
