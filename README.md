@@ -29,3 +29,17 @@ Welcome to my builder journey on Base! This repository serves as a library for m
 * [ ] Build a basic front-end to display analyzed data.
 * [ ] Deploy the "Base Activity Tracker" mini-app.
 * [ ] Open-source the codebase for community contribution.
+
+---
+
+## 🏆 Project Milestones
+* [x] **10 Commits:** Project Foundation & Initial SQL Tools
+* [x] **20 Commits:** Deep Research & Feature Mapping (Current)
+* [ ] **30 Commits:** Logic Development & Logic Models
+* [ ] **40 Commits:** Beta Testing & Documentation
+* [ ] **50 Commits:** Final Release & Base Guild Submission
+
+## 📈 Latest Updates
+* **Unified Stack Research:** Documented the 2026 transition from OP Stack to the Unified Base Stack.
+* **User Retention Logic:** Added SQL tools to identify "Returning Builders" vs "New Users."
+* **Glossary Added:** Created a resource for new builders to understand Base-specific terminology.
